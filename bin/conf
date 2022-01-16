@@ -1,0 +1,5 @@
+contents="bashcms2_contents"
+contents_owner="lidar9k"
+
+contentsdir="/var/www/bashcms2_contents"
+appdir="/var/www/bashcms2"
